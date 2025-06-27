@@ -33,3 +33,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 ![Screenshot 2025-06-27 151612](https://github.com/user-attachments/assets/cd13476b-5552-4b39-b0f9-41a2603968a9)
+![Screenshot 2025-06-27 152438](https://github.com/user-attachments/assets/ddfe43ed-b870-495a-848e-e329b6d75e9b)
+![Screenshot 2025-06-27 152506](https://github.com/user-attachments/assets/659a6523-9b5b-4645-9a77-fd8a24e5ccd5)
+
+
